@@ -1,11 +1,5 @@
 """
-version 1.0: Base
-v1.1.0: Setting the foundations with the 3 main options
-v1.1.1: Added the option to invest money
-v1.1.2: Add a relationship between invested money and investment location
-
-version 1.2
-v1.2.0: Added the database in a txt file
+By: Blackfury321
 """
 
 import os
@@ -88,3 +82,5 @@ while state:
 
     # Display file content after saving
     show_archive(archive_name)
+
+
